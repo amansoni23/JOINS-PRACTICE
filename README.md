@@ -134,3 +134,15 @@ InnerJoin-
 
 ![Image](https://github.com/user-attachments/assets/539932c4-b5f1-45da-ba41-fce09ff05749)
 
+LeftJoin-
+
+![Image](https://github.com/user-attachments/assets/005fbe47-555c-4c47-bff2-244c6482b7fc)
+
+RightJoin-
+
+![Image](https://github.com/user-attachments/assets/ad41ddb9-aa34-4d34-86eb-b840bd9e6c04)
+
+FullJoin-
+
+![Image](https://github.com/user-attachments/assets/dccf1e2f-e184-4167-b366-05bae155c7a1)
+
