@@ -7,10 +7,10 @@ use INTERNSHIP --Using the database which we created
  DepartmentID int
  );
 
- create table Department -- creating table no 2
+ create table Roles -- creating table no 2
  (
- DerartmentID INT Primary key,
- DepartmentName nvarchar(100)
+ RolesID INT Primary key,
+ RoleName nvarchar(100)
  );
 
  insert into School(SchoolID, Name, DepartmentID) values --INSERTING VALUES IN TABLE NO 1
