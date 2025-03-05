@@ -126,5 +126,11 @@ By performing these SQL joins, I gained a deeper understanding of how different 
 ✅ RIGHT JOIN includes all records from the right table, filling unmatched columns with NULLs.
 ✅ FULL OUTER JOIN ensures a complete dataset with NULLs where no matches exist.
 
-This exercise reinforced my knowledge of database relationships and SQL joins, which are essential for data analysis and retrieval. 🚀
+This exercise reinforced my knowledge of database relationships and SQL joins, which are essential for data analysis and retrieval. 
+
+Oututs:-
+
+InnerJoin-
+
+![Image](https://github.com/user-attachments/assets/539932c4-b5f1-45da-ba41-fce09ff05749)
 
